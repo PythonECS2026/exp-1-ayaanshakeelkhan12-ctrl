@@ -1,9 +1,5 @@
 # AIM: Create a personalized greeting message
 
-# Coder: Tasneem Khan
-
-# Date: 5/1/26
-
 # Write your code here
 
 name=input("Enter Name: ")
